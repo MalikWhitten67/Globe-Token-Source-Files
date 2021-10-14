@@ -1,4 +1,4 @@
-Welcome to Safe Token github - here you will find opensource free to use tools for any purpose.
+👋 Welcome to Safe token
 
 This token was developed by Trey Osagma. 
 
