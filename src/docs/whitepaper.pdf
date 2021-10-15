@@ -1,0 +1,24 @@
+Safe token whitepaper
+
+This introductory paper was originally published in 2021 by Trey Osagma, the founder of Safe Token
+
+{what is safe token?}
+Safe token is a cryptocurrency that aims to help solve the modern issues with the safety of transactions,
+and the privacy across the network.  This token revolves itself around its users, 
+the more people use it the safer token will spread and secure everyone’s transactions.  
+It uses wsl.trust which is a data base that stores transactions and hard codes a password randomly generated. 
+these passcodes are very hard for someone to crack and gain access to the user’s funds. 
+Wsl.trust will help make sure that not only safe token transactions are secure but that all transactions from other currencies are secure.
+
+{Uniqueness} 
+Like every coin on the market today, safe token has instant transactions, 
+we aim for transactions to not take longer than a day. Safe token was made for fun,
+I had no intention that this coin will go anywhere.
+
+
+{Features of Lux2 aglo}
+The lux2 algo is an algorithm based on hard coded passwords.  
+Wsl.trust generates a random number between 1 -150 and then regenerates backwards 510 – 1m, so for example if I were to make a transaction wsl.trust will find it and generate a random code like "1.8.7d.3t.24r" which if you look
+at it the last 3 numbers have a letter so if to crack the password  I will take the numbers with a letter and put them first like this d7-t3-424-18 lux2, it is just numbers and letters written backwards.
+But its not always that
+easy see every time you get it right it regenerates a new letter and adds 6 more characters to the passcode.
