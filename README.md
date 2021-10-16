@@ -6,6 +6,7 @@ Welcome to Globe Token github!!!
 What will i find in this github repo?
 
 ⚫ In this repo you will find open source free to use tools aimed to help you jumpstart your own project! 
+
 ⚫ We will try to keep the project open source but somethings will be hidden from public use!
 
 What is Globe Token?
