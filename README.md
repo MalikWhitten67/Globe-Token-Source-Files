@@ -1,2 +1,2 @@
 Globe token
-![globelogo](./images/globelogo.png =250x)
+![globelogo](./Images/globelogo.png =250x)
