@@ -1,7 +1,7 @@
-<img src="https://github.com/Treyyyy0338/Globe-Token-Source-Files/blob/main/Images/globelogo.png" width="75" height="75" />
+                       <img src="https://github.com/Treyyyy0338/Globe-Token-Source-Files/blob/main/Images/globelogo.png" width="75" height="75" />
 
 
-Welcome to Globe Token github!!!
+👋 Welcome to Globe Token github!!!
 -------------------
 
 What will i find in this github repo?
