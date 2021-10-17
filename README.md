@@ -14,7 +14,7 @@ What will i find in this github repo?
 
 ⚪ and You will see what happens in dev Point of view
  
- -----------------------------------------------------------
+
  
  
  What is Globe Token?
