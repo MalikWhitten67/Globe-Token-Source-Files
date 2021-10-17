@@ -1,4 +1,6 @@
-<img src="https://github.com/Treyyyy0338/Globe-Token-Source-Files/blob/main/Images/Untitled44_20211016140431.png" width="75" height="75" />
+<p align="center">
+  <img width="200" src="http://material-bread.org/logo-shadow.svg" alt="Material Bread logo">
+</p>
 
 👋 Welcome to Globe Token github!!!
 ------------------------------------
