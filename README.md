@@ -21,7 +21,7 @@ What will i find in this github repo?
 ⚪ Globe token is  a currency that is tailored for use in regions where technology is limited
 
 
-⚪ It provides easy acess to buy goods and services without use the regular dollar
+⚪ It provides easy acess to buy goods and services where the conversion of Fiat currency's are limited
 
  
  
