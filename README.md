@@ -12,7 +12,8 @@ What will i find in this github repo?
  What is Globe Token?
 -------------------
 
-⚫ It is a currency that soon can be used across the world!
+⚫ Globe token is  a currency that is tailored for use in regions where technology is limited
+⚫ It provides easy acess to buy goods and services without use the regular dollar
 
  What is the main goal?
 -------------------
