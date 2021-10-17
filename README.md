@@ -4,10 +4,9 @@
 
 <h1 align="center">Welcome to Globe Token github!</h1>
 
-<h1 align="center">What will i find in this github repo?</h1>
-
-⚫ In this repo you will find open source free to use tools aimed to help you jumpstart your own project! 
-
+What will i find in this github repo?
+---------------------------------
+<h1 align="center">⚫ In this repo you will find open source free to use tools aimed to help you jumpstart your own project! </h1>
 ⚫ We will try to keep the project open source but somethings will be hidden from public use!
 
  What is Globe Token?
