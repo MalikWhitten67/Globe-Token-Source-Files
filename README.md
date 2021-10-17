@@ -45,20 +45,20 @@ What are the specifications of the coin?
 
 ⚪ Total supply 
    
-⚪70m Tokens
+70m Tokens
 
 -----------------
 
 ⚪ Acronym 
 
-⚪GLB 
+GLB 
 
 -----------------
 
 
 ⚪ Decimals
 
-⚪ 18
+ 18
 
 -------------------
 
