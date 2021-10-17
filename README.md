@@ -2,7 +2,7 @@
   <img width="200" src="https://github.com/Treyyyy0338/Globe-Token-Source-Files/blob/main/Images/Untitled44_20211016140431.png">
 </p>
 
-👋 Welcome to Globe Token github!!!
+<h1 align="center">Welcome to Globe Token github!</h1>
 ------------------------------------
 What will i find in this github repo?
 -------------------
