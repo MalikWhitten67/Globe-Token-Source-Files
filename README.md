@@ -20,11 +20,10 @@ What will i find in this github repo?
  What is Globe Token?
 ---------------------------------
 
-⚪ Globe token is  a currency that is tailored for use in regions where technology is limited
-
-
-⚪ It provides easy access to buy goods and services where the conversion of Fiat currencies is limited
-
+⚪ Globe token is a proprietary token based on financial well-being and to aid in spreading 
+the use of digital assets around the globe. GLB is one of the very first tokens to provide a 3-
+way pump and use POT Proof of trust powers all of glb’s transactions across a 
+multimolecular market.
  
  
  
