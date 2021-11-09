@@ -27,41 +27,6 @@ multimolecular market.
  
  
  
- 
- What is the main goal?
----------------------------------
-
-⚪ The main goal of the project is to spread the concept of non Physical currencies in technology limited regions!!
-
-
-Where to buy? 
----------------------------------
-
-⚪ Currently we are launching the token Oct 20th, on that day we will list on pancake swap and add liquidity!!
-
-
-
-What are the specifications of the coin?
----------------------------------
-
-⚪ Total supply 
-   
-70m Tokens
-
-
-
-⚪ Acronym 
-
-GLB 
-
-
-
-
-⚪ Decimals
-
- 18
-
-
 
 Thankyou for reading this  I hope this information helped you!!
 
