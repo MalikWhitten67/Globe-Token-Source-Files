@@ -692,4 +692,4 @@ async def purge(ctx,amount=2):
 
 
 
-bot.run('ODY2MTUyMzMyMjM2MjkyMTY3.YPOZOA.rWPbjkCER0jvyTTzer8hF8ZE8CY')
+bot.run('')
